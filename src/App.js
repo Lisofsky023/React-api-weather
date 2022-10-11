@@ -16,7 +16,8 @@ function App() {
       setLocation('')
     }
   }
-
+  console.log('datamain', data.main)
+  
   return (
     <div className="app">
       <div className="search">
